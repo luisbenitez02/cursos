@@ -26,7 +26,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -34,3 +35,6 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+/java_7/holasocios/nbproject/private/
+/java_7/holasocios/build/
+/java_7/variables/nbproject/private/
